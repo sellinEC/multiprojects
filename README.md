@@ -1,5 +1,5 @@
 Simple first try anarchy-themed questiontree in vue
-
+live demo: anarchy.fryskungen.se
 # anarchy
 
 ## Project setup
